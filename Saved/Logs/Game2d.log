@@ -7032,3 +7032,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.18-00.04.42:437][348]LogEOSSDK: Warning: LogHttp: 0000020AD9174800: libcurl info message cache 41 (Closing connection)
 [2025.12.18-00.04.42:437][348]LogEOSSDK: Warning: LogHttp: 0000020AD9174800: libcurl info message cache 42 (TLSv1.3 (OUT), TLS alert, close notify (256):)
 [2025.12.18-00.04.42:767][348]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BCF1B34D0-499E-5E7F-458D-7882620836B1%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.12.18-00.10.23:850][371]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16662.660156
+[2025.12.18-00.10.24:852][374]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.18-00.10.24:853][374]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16663.324219, Update Interval: 320.887482
